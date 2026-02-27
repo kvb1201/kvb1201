@@ -3,6 +3,15 @@
 B.Tech Artificial Intelligence student at NIT Surat focused on **backend systems, APIs, and applied AI platforms**.  
 I enjoy designing scalable architectures and integrating ML into real-world applications.
 
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?logo=django&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+
 ---
 
 ## 🔧 Tech Focus
