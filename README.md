@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Kavya 👋  
 
-<!--
-**kvb1201/kvb1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Artificial Intelligence student at NIT Surat focused on **backend systems, APIs, and applied AI platforms**.  
+I enjoy designing scalable architectures and integrating ML into real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Focus
+- Backend Development (Django, Express, FastAPI)
+- API Design & Data Modeling
+- Distributed Systems (learning)
+- Machine Learning Integration
+- Data Structures & Algorithms (C++)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 MindSettler (GWOC)
+Secure counseling session backend platform with role-based workflow and scheduling APIs  
+**Stack:** Django REST, SQL  
+👉 https://github.com/kvb1201/MindSettler
+
+---
+
+### 🛍️ Rangriti
+Cultural product discovery backend with modular catalog architecture  
+**Stack:** Express, MongoDB  
+👉 https://github.com/kvb1201/Rangriti
+
+---
+
+### 📊 Data Structures & Algorithms
+Categorized implementations of core algorithms (graphs, DP, trees, recursion)  
+**Stack:** C++  
+👉 https://github.com/kvb1201/data-structures-algorithms
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/kavya-bhatiya-a4864a263
+- Email: kavyabhatiya44@gmail.com
