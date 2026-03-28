@@ -28,7 +28,7 @@ I enjoy designing scalable architectures and integrating ML into real-world appl
 ### 🧠 MindSettler (GWOC)
 Secure counseling session backend platform with role-based workflow and scheduling APIs  
 **Stack:** Django REST, SQL  
-👉 https://github.com/kvb1201/MindSettler
+👉 https://github.dev/kvb1201/Mindsettler-Backend
 
 ---
 
